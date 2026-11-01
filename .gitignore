@@ -1,0 +1,6 @@
+src/
+tools/
+vendor/
+main.lua
+dependencies.json
+*.reference.*

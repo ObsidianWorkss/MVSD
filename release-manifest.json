@@ -1,0 +1,7 @@
+{
+  "release": "current",
+  "sha256": {
+    "loader.lua": "d80c875b03ffe353929c0684c948c47cb64b3cb17bec39d9a1fa7f8f22aeee20",
+    "obfuscated.lua": "0acff2ebfc50efb154a26b6193c288c2a13aaaf14c2d4ed0e88a8980143b2776"
+  }
+}
